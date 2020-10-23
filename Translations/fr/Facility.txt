@@ -32,5 +32,9 @@ Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
 Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] pour pouvoir réutiliser [item].
-APPUYEZ SUR <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS
+Appuyez sur <color=white><b>F1</b></color> pour obtenir de l'aide
 Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vos coéquipiers</size>
+Vous avez été recapturé par les Nine-Tailed Fox.\nAvec une menace en moins, ils ont pu renforcer les troupes.
+Vous avez été fait prisonnier en tant que scientifique par l'Insurrection du Chaos.\nIls ont pu prendre avantage des informations que vous leur avez fournies.
+La partie commence dans : <color=yellow>{0}</color>s
+Le lancement de la partie a été <color=#FF5050>suspendu</color>
