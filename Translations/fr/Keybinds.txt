@@ -1,0 +1,20 @@
+Tirer
+Zoom
+Sauter
+Interagir
+Inventaire
+Recharger
+Sprint
+Presser pour Parler
+Marche Furtive
+Avancer
+Reculer
+Aller à Gauche
+Aller àDroite
+Liste des Joueurs
+Informations Personnage
+Remote Admin
+Lampe Torche
+Presser pour Parler Alternatif
+Noclip
+Console de Jeu
