@@ -1,0 +1,30 @@
+Förmåga hittades inte:ID't med denna förmåga finns inte.
+Rusa:Ökar din hastighet, men ökar också ljudet som gör när du rör på dig.
+Smyg:Dina rörelser blir tysta till priset av mycket fart.
+Inventarie:Öppna ditt inventarie och välj ett objekt du har hämtat med LMB, eller släpp det med RMB.
+Obeväpnad:Du har ingenting. Hitta någonting. Vad som helst.
+Åtkomstkort:Du har ett åtkomstkort, det är inte det bästa, men förlora det inte.
+Standardutgåva:Du är utrustad med ett gevär, granater, en radio, en disarmer och ett åtkomstkort.
+Armed & Dettgerous:Du har en Lätt maskingevär, ett Hacking Verktyg, och ett första hjälpen kit.
+Häpnadsväckande hastighet:När ingen ser dig, rör du dig väldigt snabbt. Om någon kollar på dig kan du inte röra på dig, men alla blinkar samtidigt varannan sekund, så att du kan agera.
+Pettic:Du rör dig snabbare när din hälsa minskar.
+Sinkhole:Du placerar en svart pool av korrosion och teleporterar tillbaka till den vid ett tillfälle. Teleportering tar några sekunder. \ NDu flyttar ditt hål genom att placera det igen.
+Korrosion:Du går genom dörrarna genom att gå in i dem.
+Swett Song:Du tar nästan ingen skada från kulor, men du kan omedelbart återupptas via ett humettoffer i din inneslutningskammare.
+Pocket Dimension:Fångar en humett och teleporterar dem till en fickdimension som snabbt dödar dem. Humetts måste välja rätt utgång eller dö.
+Scopophobia:Du börjar foglig och blir upprörd när du ses eller skadas. Dämpa din ilska genom att döda trettsgressorer - följ deras ljus innan din raseri avtar. Varje överträdares indignitet ökar din AHP och förhindrar skada för dig så länge den står.
+Försök att inte gråta (docile):Det är svårt att inte gråta. Hålla dig på en dörr hjälper; Du blir tystare och står på plats mot det, lugnar dig själv ... eller väntar på att någon ska komma igenom.
+Melee Attack (Rage):Riv igenom allting på ditt sätt för att komma till dem som har skadat dig. Dina attacker kommer att förstöra dörrar och döda de flesta humetts direkt.
+Ultrakänslig:Du ser inte hummet om de inte springer, stöter på dig eller skjuter ett vapen i närheten av dig.
+Rovdjur:Dina fotspår är tysta. Om du håller den tilldelade tangenten ökar din hastighet men gör din rörelse hörbar.
+Efterlikna:Du talar högt till ett antal närliggande spelare, inklusive humetts.
+Bite:Angriper en humett i melee rettge och hanterar allvarligt allvarliga skador.
+Etttidote:Rör vid en människa på nära håll och dödar dem omedelbart.
+The Cure:Reettimates en nyligen dödad humett. Härdade hummet spelar som zombier med snabb rörelse och låg hälsa. \ NDet finns ingen gräns för hur metty humetts kan återupptas.
+Strike:Angriper en humett och ger dem en måttlig skada.
+Öppna / stäng dörrar:Du stänger interagera med dörrar för att öppna och stänga dem för 5 AP. Du låser också ner dem, dränerar din AP men förhindrar att någon öppnar eller stänger den tills du lyfter låset eller tar slut på AP.
+Tesla-överbelastning:Du aktiverar en Tesla-port för 50 AP för att direkt utlösa den och döda ett spelare i eller nära den.
+Låsning:Från och med åtkomstnivå 2 stänger du in några rum för att låsa dem, stänga av alla lampor och stänga alla dörrar. När du är i låsta rum ser inte humetts SCP-173.
+Praktiskt taget oförstörbar:Fem generatorer leker över Heetty Containment Zone. Om alla är upplåsta och aktiverad, blir du återhållen. \ NGeneratorer har en nedräkningssekvens som en spelare kan avbryta genom att trycka på "kettCEL" -knappen på generatorn.
+Neck Snap:Håll eller klicka för att knäppa en humets hals, döda dem omedelbart så länge de inte ser dig eller blinkar.
+Charge (Rage):Förkorta deras flykt - de förtjänar det. Du bultar rakt fram och förstör allt framför dig för en kort distans. Om du träffar en heetty gate, tvingar du dig själv genom den.

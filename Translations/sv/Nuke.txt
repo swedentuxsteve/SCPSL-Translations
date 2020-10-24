@@ -1,0 +1,4 @@
+<size=180><color=red>AVSTÄNGD</color></size>
+<color=red><size=200>SNÄLLA VÄNTA</size></color>
+<color=lime><size=180>REDO</size></color>
+DETONATION OUNDVIKLIG

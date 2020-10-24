@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>STÄNGD</color>
+<color=#00ee00FF>ÖPPNAD</color>
+<color=#FF7800FF>I RÖRELSE</color>
+<color=#ee0000FF>NEKAT</color>
+<color=#ee0000FF>NERLÅST</color>
+<color=#00C0eeFF>KORT BEHÖVS</color>
+<color=#00ee00FF>TILLÅTEN ÅTKOMST</color>
+<color=#ee0000>NEKAD ÅTKOMST</color>
+<color=#ee7900FF>PASSERA</color>
+<color=#00ee00FF>FLY</color>
+<color=#ee7900FF>STÄNGS</color>

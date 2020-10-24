@@ -1,0 +1,20 @@
+Skjut
+Zooma
+Hoppa
+Interagera
+Inventarie
+Ladda om
+Spring
+Röstchat
+Smyg
+Flytta Framåt
+Flytta Bakåt
+Flytta Vänster
+Flytta Höger
+Spelarlista
+Karaktärsinformation
+Fjärradministratör
+Växla Ficklampa
+Alternativ Röstchat
+Noclip
+Spelkonsol

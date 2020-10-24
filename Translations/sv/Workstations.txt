@@ -1,0 +1,18 @@
+<size=100>JOBBSTATION - LÅST</size>\nobehörig användning är förbjuden\nanslut din vapenhanterare för att verifiera din identitet
+<size=100>VÄNLIGEN VÄNTA</size>\nverifiera den anslutna vapenhanteraren
+<size=100>JOBBSTATION - REDO</size>\n\nhåll i det vapen du vill ändra på
+<size=80>VAD VILL DU ÄNDRA?</size>
+sikten ({0} redo)
+pip tillägg ({0} redo)
+andra tillägg ({0} redo)
+TILLBAKA
+Skada {0}
+Skotthögljuddhet {0}
+Recoil {0}
+Skjutfrekvens {0}
+Skott spridning (utan att sikta) {0}
+<color=red>Modifierar hårkors</color>
+<color=green>Teleskopiskt sikte</color>
+Zoom storlek <color=green>{0}</color>
+Recoil (med att sikta) {0}
+<size=100>HEJDÅ!</size>\navslutar den aktuella sessionen
